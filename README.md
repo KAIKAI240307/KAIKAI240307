@@ -51,7 +51,6 @@
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,10 +79,10 @@ Quality assurance for cafe company profile website with comprehensive manual tes
 Real-time Android application for recognizing SIBI (Sistem Isyarat Bahasa Indonesia) alphabet gestures with 95% accuracy
 - **Tech**: Python, TensorFlow, MediaPipe, Kotlin, Jetpack Compose, TensorFlow Lite
 - **Highlights**: Computer vision with MLP classifier, Real-time hand landmark detection, Interactive SIBI dictionary
-- **Impact**: Supporting education & communication accessibility for deaf community (aligned with SDGs #4 & #10)
+- **Impact**: Supporting education & communication accessibility for deaf community (aligned with SDGs 4 & 10)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KAIKAI240307&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 💙 Thanks for visiting my profile!
 </div>
 
